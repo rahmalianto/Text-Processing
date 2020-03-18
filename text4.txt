@@ -1,0 +1,30 @@
+Sentiment analysis is the computational
+study of opinions, sentiments, evaluations, attitudes,
+views and emotions expressed in text. It refers to
+a classification problem where the main focus is to
+predict the polarity of words and then classify them
+into positive or negative sentiment. Sentiment analysis
+over Twitter offers people a fast and effective
+way to measure the public’s feelings towards their
+party and politicians. The primary issue in previous
+sentiment analysis techniques is the determination
+of the most appropriate classifier for a given classification
+problem. If one classifier is chosen from the
+available classifiers, then there is no surety in the
+best performance on unseen data. So to reduce the
+risk of selecting an inappropriate classifier, we are
+combining the outputs of a set of classifiers. Thus in
+this paper, we use an approach that automatically
+classifies the sentiment of tweets by combining machine
+learning classifiers with lexicon based classifier.
+The new combination of classifiers are SentiWordNet
+classifier, naive bayes classifier and hidden markov
+model classifier. Here positivity or negativity of each
+tweet is determined by using the majority voting
+principle on the result of these three classifiers.
+Thus we were used this sentiment classifier for
+finding political sentiment from real time tweets.
+Thus we have got an improved accuracy in sentiment
+analysis using classifier ensemble Approach. Our
+method also uses negation handling and word sense
+disambiguation to achieve high accuracy.

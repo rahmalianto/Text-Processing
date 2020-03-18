@@ -1,0 +1,25 @@
+The World Wide Web has evolved very drastically 
+and the recent advent in social networking and media rich
+websites has necessitated analysis of the social networks and
+opinions expressed by various users in media like blogs, tweets,
+and website pages alike. While a lot of previous researches have 
+been done on product / CRM domain, relatively few research has
+been done on the network analysis of social media with a focus on
+extraction and opinion of e-Health data i.e. data expressed in
+various blogs or website pages by users regarding various aspects
+of their health. While marketing and medical companies can 
+leverage this data to augment customer reach and thus further
+their profits, sentiment analysis and network analysis on the data 
+can help various organizations understand health patterns,
+address people's concerns or predict outbreak patterns in case of 
+contagious diseases. This paper outlines the machine learning
+techniques which are helpful in the analysis of medical domain 
+data from Social networks. In this paper we compare the existing 
+techniques of machine learning, discuss the advantages and 
+challenges encompassing the perspectives involving the use of text 
+mining methods for application in E-health and madicine. We
+Evaluate medical domain data classification efficiency using 
+various metrics like ROC, AUC implemented via R language
+packages. We need to infer which machine learning technique is 
+more relevant for processing data from social networks having 
+medical terms in it.

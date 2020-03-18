@@ -1,0 +1,27 @@
+The character segmentation of handwritten
+manuscripts often presents complicated tasks. There are
+many factors that cause such segmentation difficult, such as
+inconsistencies in the slope, slant, length and width of each
+character, as well as intersections of two characters from
+either the same or different lines. This paper proposes a new
+approach that combines statistical and structural analyses to
+generate the Javanese scripts from line segmentation of
+Javanese manuscript image. Every time a new manuscript is
+discovered, all objects that make up the characters in the
+manuscript are identified using interconnecting operation to
+identify the components of the script. Each object that is
+interconnected is given the same label. The next task is to
+calculate the average height and average width of each object
+that has been given the same label and its standard deviation.
+This information is used to guide the average normality of a
+script, i.e. when a character has a height or width that exceeds
+the average value plus the standard deviation, it can be
+concluded that the character in question in fact consists of two
+characters that touch each other. In regard to normalizing a
+skewed cluster of scripts, the task is to straighten the script in
+such a way that it becomes perpendicular. The experiment
+was done using 13 line images from different authors with
+different writing styles, and the result shows an 88.19%
+segmentation accuracy. It can be concluded that the proposed
+approach to segmentation method is relatively a success when
+applied on the Javanese handwritten characters.

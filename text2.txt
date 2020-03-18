@@ -1,0 +1,18 @@
+Music is closely related to human psychology. A piece
+of music often associated with certain adjectives such as happy,
+sad, romantic, and so on. The linkage between the music with a
+certain mood has been widely used in various occasions by people
+and music classification based on relevance to a particular
+emotion is important. This research concerns with music
+classification system based on mood parameters using K-Nearest
+Neighbor classification method and Self Organizing Map. The
+mood parameters used is based on Robert Thayer's energy-stress
+model which are exuberance / happy, contentment / relax,
+anxious and depression. Features that are used are rhythm
+patterns of the music. The system built has additional facility
+that that can play songs according to mood chosen. The system is
+tested using a set of kid song and can show the number of
+clusters and the mood of a song collection. Classification results
+obtained by the two classification methods, the K-Nearest
+Neighbor and Self Organizing Map, are compared with the mood
+obtained by child psychology experts.
